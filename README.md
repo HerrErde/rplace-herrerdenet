@@ -12,7 +12,7 @@ USE THIS FOR CHROME/OPERA
 
 ### Userscript
 
-Install userscript.user.js from this repository to the addons listed above.
+Install [userscript.user.js](https://github.com/herrerde/rplace-herrerdenet/raw/main/userscript.user.js) from this repository to the addons listed above.
 
 ## Coordination Efforts
 
